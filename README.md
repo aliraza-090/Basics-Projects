@@ -1,2 +1,2 @@
-# Basics-Projects
-This is my first Git Repository 
+# Demo-Projects
+This is my first Git Repository  
